@@ -1,0 +1,4 @@
+git fech origin 
+git pull origin master
+git commit -m 'try to update my branch'
+git push origin update_script
